@@ -41,4 +41,8 @@ I am a pre-final year student at Vellore Institute of Technology, pursuing a B.T
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShreyaTripathi1&theme=dark&hide_border=false)<br/>
 
+**Random thought:**  
+Debugging is like being the detective in a crime movie where you are also the murderer🙃
 
+
+<i>Thanks for stopping by! Let’s connect if you’re into tech, coding, or just good conversations.</i>
