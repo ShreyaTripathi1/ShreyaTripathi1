@@ -13,7 +13,8 @@ I am a pre-final year student at Vellore Institute of Technology, pursuing a B.T
 
 ### Talking about me:
 
-- 👀 I’m passionate about coding, AI, and data science.
+- 👀 I’m passionate about coding, AI, ML and Data Science. <br>
+      *Data Science: Because it’s fun to make sense out of chaos. Or at least try. 🤷‍♂️📈*
 - 🌱 Currently diving deep into Data Structures and Algorithms, and exploring Machine Learning and Web Development.
 - 📫 Reach me at LinkedIn or Email ([shreyatripathi1808@gmail.com](mailto:shreyatripathi1808@gmail.com))
 - 😄 Pronouns: She/Her
@@ -42,10 +43,12 @@ I am a pre-final year student at Vellore Institute of Technology, pursuing a B.T
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShreyaTripathi1&theme=dark&hide_border=false)<br/>
 
+<br/>
 
 **Random thought:**  
 
-Debugging is like being the detective in a crime movie where you are also the murderer🙃
+Debugging is like being the detective in a crime movie where you are also the murderer.
 
+<br/>
 
-<i>Thanks for stopping by! Let’s connect if you’re into tech, coding, or just good conversations.</i>
+<i>Thanks for stopping by! Let’s connect if you’re into tech, coding, or just a good convo.</i>
