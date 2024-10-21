@@ -16,7 +16,7 @@ I am a pre-final year student at Vellore Institute of Technology, pursuing a B.T
 - 👀 I’m passionate about coding, AI, ML and Data Science. <br>
       *Data Science: Because it’s fun to make sense out of chaos. Or at least try. 🤷‍♂️📈*
 - 🌱 Currently diving deep into Data Structures and Algorithms, and exploring Machine Learning and Web Development.
-- 📫 Reach me at LinkedIn or Email ([shreyatripathi1808@gmail.com](mailto:shreyatripathi1808@gmail.com))
+- 📫 Reach me at LinkedIn or just drop a mail.
 - 😄 Pronouns: She/Her
 
 <br/>
