@@ -1,4 +1,4 @@
-# Hey There, I'm Shreya! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey There, I'm Shreya Tripathi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/shreyatripathi863/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya-tripathi" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.instagram.com/idrc.wtevr/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreya-tripathi" height="30" width="40" /></a>
@@ -13,9 +13,9 @@ I am a pre-final year student at Vellore Institute of Technology, pursuing a B.T
 
 ### Talking about me:
 
-- 👀 I’m passionate about coding, AI, ML and Data Science. <br>
+- 👀 I’m passionate about coding, Machine Learning and Data Science. <br>
       *Data Science: Because it’s fun to make sense out of chaos. Or at least try. 🤷‍♂️📈*
-- 🌱 Currently diving deep into Data Structures and Algorithms, and exploring Machine Learning and Web Development.
+- 🌱 Currently diving deep into Data Science, Machine Learning & Data Structures and Algorithms, and exploring Web Development.
 - 📫 Reach me at LinkedIn or just drop a mail.
 - 😄 Pronouns: She/Her
 
@@ -50,5 +50,8 @@ I am a pre-final year student at Vellore Institute of Technology, pursuing a B.T
 Debugging is like being the detective in a crime movie where you are also the murderer.
 
 <br/>
+
+
+![Profile Views](https://shields.io/badge/Profile%20views-0-blue)
 
 <i>Thanks for stopping by! Let’s connect if you’re into tech, coding, or just a good convo.</i>
