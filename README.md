@@ -51,6 +51,6 @@ Debugging is like being the detective in a crime movie where you are also the mu
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=ShreyaTripathi1&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=ShreyaTripathi1&color=blueviolet&abbreviated=true)
 
 <i>Thanks for stopping by! Let’s connect if you’re into tech, coding, or just a good convo.</i>
