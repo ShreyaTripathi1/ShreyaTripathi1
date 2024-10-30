@@ -51,7 +51,6 @@ Debugging is like being the detective in a crime movie where you are also the mu
 
 <br/>
 
-
-![Profile Views](https://shields.io/badge/Profile%20views-0-blue)
+![](https://komarev.com/ghpvc/?username=ShreyaTripathi1&color=blueviolet)
 
 <i>Thanks for stopping by! Let’s connect if you’re into tech, coding, or just a good convo.</i>
