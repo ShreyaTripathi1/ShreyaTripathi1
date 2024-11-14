@@ -42,7 +42,11 @@ I am a pre-final year student at Vellore Institute of Technology, pursuing a B.T
 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShreyaTripathi1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ShreyaTripathi1&theme=dark&hide_border=false)
+
+<br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaTripathi1&layout=compact&theme=blueviolet)
 
 <br/>
 
@@ -51,7 +55,5 @@ I am a pre-final year student at Vellore Institute of Technology, pursuing a B.T
 Debugging is like being the detective in a crime movie where you are also the murderer.
 
 <br/>
-
-![](https://komarev.com/ghpvc/?username=ShreyaTripathi1&color=blueviolet&abbreviated=true)
 
 <i>Thanks for stopping by! Let’s connect if you’re into tech, coding, or just a good convo.</i>
