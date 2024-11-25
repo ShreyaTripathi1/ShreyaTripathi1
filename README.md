@@ -42,7 +42,7 @@ I am a pre-final year student at Vellore Institute of Technology, pursuing a B.T
 
 ### 📊 GitHub Stats:
 
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=ShreyaTripathi1&theme=dark&hide_border=false)
 
 <br/>
 
