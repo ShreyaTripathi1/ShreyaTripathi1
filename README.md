@@ -11,7 +11,7 @@ I am a pre-final year student at Vellore Institute of Technology, pursuing a B.T
 
 <br/>
 
-### Talking about me:
+## Talking about me:
 
 - 👀 I’m passionate about coding, Machine Learning and Data Science. <br>
       *Data Science: Because it’s fun to make sense out of chaos. Or at least try. 🤷‍♂️📈*
@@ -21,7 +21,7 @@ I am a pre-final year student at Vellore Institute of Technology, pursuing a B.T
 
 <br/>
 
-### 👩‍💻 Tech Stack:
+## 👩‍💻 Tech Stack:
 <p>
     <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
@@ -40,7 +40,7 @@ I am a pre-final year student at Vellore Institute of Technology, pursuing a B.T
 <br/>
 
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ShreyaTripathi1)
 
@@ -50,11 +50,17 @@ I am a pre-final year student at Vellore Institute of Technology, pursuing a B.T
 
 <br/>
 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShreyaTripathi1&show_icons=true&theme=dracula&title_color=00b2d2&text_color=ffffff&bg_color=111112&locale=en&hide_border=true" alt="ShreyaTripathi1" />
+
+<hr>
+
 **Random thought:**  
 
 Debugging is like being the detective in a crime movie where you are also the murderer.
 
 <br/>
+
+
 
 ![](https://komarev.com/ghpvc/?username=ShreyaTripathi1&color=blueviolet&abbreviated=true)
 
