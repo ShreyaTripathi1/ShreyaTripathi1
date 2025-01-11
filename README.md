@@ -46,11 +46,11 @@ I am a pre-final year student at Vellore Institute of Technology, pursuing a B.T
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaTripathi1&layout=compact&theme=blueviolet)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShreyaTripathi1&show_icons=true&theme=dracula&title_color=00b2d2&text_color=ffffff&bg_color=111112&locale=en&hide_border=true" alt="ShreyaTripathi1" />
 
 <br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShreyaTripathi1&show_icons=true&theme=dracula&title_color=00b2d2&text_color=ffffff&bg_color=111112&locale=en&hide_border=true" alt="ShreyaTripathi1" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaTripathi1&layout=compact&theme=blueviolet)
 
 <hr>
 
