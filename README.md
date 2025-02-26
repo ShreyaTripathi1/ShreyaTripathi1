@@ -65,3 +65,22 @@ Debugging is like being the detective in a crime movie where you are also the mu
 ![](https://komarev.com/ghpvc/?username=ShreyaTripathi1&color=blueviolet&abbreviated=true)
 
 <i>Thanks for stopping by! Let’s connect if you’re into tech, coding, or just a good convo.</i>
+
+
+
+<div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+</div>
