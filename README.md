@@ -86,7 +86,7 @@ Whether it's a dashboard that reveals hidden trends or a model that makes sense 
 - ✈️ Traveler - Give me a map and a good playlist - I’m in.
 - 🧠 Psychology enthusiast - Why we think how we think? Human behavior is wild and interesting.
 - ♟️ Chess - Nothing serious, just some friendly face-offs.
-- 🏎️ F1 fan - Supporting Ferrari: just an incident, but it builds character.
+- 🏎️ F1 fan - Supporting Ferrari: just an inchident, but it builds character.
   
 <br/>
 
