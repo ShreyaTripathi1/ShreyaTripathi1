@@ -13,11 +13,19 @@ I am a pre-final year student at Vellore Institute of Technology, pursuing a B.T
 
 ## Talking about me:
 
-- 👀 I’m passionate about coding, Machine Learning and Data Science. <br>
-      *Data Science: Because it’s fun to make sense out of chaos. Or at least try. 🤷‍♂️📈*
-- 🌱 Currently diving deep into Data Science, Machine Learning & Data Structures and Algorithms, and exploring Web Development.
+- 👀 I’m passionate about Machine Learning and Data Science. <br>
+      *(Data Science: Because it’s fun to make sense out of chaos. Or at least try! 🤷‍♂️📈)*
+- 🌱 Currently diving deep into Data Science, Machine Learning & Data Structures and Algorithms.
 - 📫 Reach me at LinkedIn or just drop a mail.
 - 😄 Pronouns: She/Her
+
+<br/>
+
+## ✨What Drives Me?
+
+I'm deeply fascinated by how data can unlock stories, patterns, and insights that fuel real-world impact. From predicting user behavior to visualizing trends, I thrive on building smart, scalable solutions that make decisions more intelligent - and lives a little easier.
+
+Whether it's a dashboard that reveals hidden trends or a model that makes sense of unstructured chaos, I believe the best solutions come from curiosity, clean code, and coffee.
 
 <br/>
 
@@ -39,6 +47,9 @@ I am a pre-final year student at Vellore Institute of Technology, pursuing a B.T
 
 <br/>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaTripathi1&layout=compact&theme=blueviolet)
+
+<br/>
 
 ## 📊 GitHub Stats:
 
@@ -48,25 +59,7 @@ I am a pre-final year student at Vellore Institute of Technology, pursuing a B.T
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShreyaTripathi1&show_icons=true&theme=dracula&title_color=00b2d2&text_color=ffffff&bg_color=111112&locale=en&hide_border=true" alt="ShreyaTripathi1" />
 
-<br/>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaTripathi1&layout=compact&theme=blueviolet)
-
 <hr>
-
-**Random thought:**  
-
-Debugging is like being the detective in a crime movie where you are also the murderer.
-
-<br/>
-
-
-
-![](https://komarev.com/ghpvc/?username=ShreyaTripathi1&color=blueviolet&abbreviated=true)
-
-<i>Thanks for stopping by! Let’s connect if you’re into tech, coding, or just a good convo.</i>
-
-
 
 <div align="center">
 <picture>
@@ -84,3 +77,19 @@ Debugging is like being the detective in a crime movie where you are also the mu
   />
 </picture>
 </div>
+
+<br/>
+
+## 🌍 Outside of Tech
+
+- 📸 Amateur photographer - Love capturing every moment.
+- ✈️ Traveler - Give me a map and a good playlist - I’m in.
+- 🧠 Psychology enthusiast - Why we think how we think? Human behavior is wild and interesting.
+- ♟️ Chess - Nothing serious, just some friendly face-offs.
+- 🏎️ F1 fan - Supporting Ferrari: just an incident, but it builds character.
+  
+<br/>
+
+![](https://komarev.com/ghpvc/?username=ShreyaTripathi1&color=blueviolet&abbreviated=true)
+
+<i>Thanks for stopping by! Let’s connect if you’re into tech, coding, or just a good convo.</i>
