@@ -49,7 +49,7 @@ Whether it's a dashboard that reveals hidden trends or a model that makes sense 
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaTripathi1&layout=compact&theme=blueviolet)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaTripathi1&layout=compact&langs_count=10&bg_color=FFFFFF&title_color=000000&text_color=333333&border_color=ECECEC)
 
 <br/>
 
