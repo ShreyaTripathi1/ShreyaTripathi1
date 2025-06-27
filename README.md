@@ -32,22 +32,43 @@ Whether it's a dashboard that reveals hidden trends or a model that makes sense 
 <br/>
 
 ## 👩‍💻 Tech Stack:
+
 <p>
-    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
- </p>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&style=flat&logoColor=white"></a>
+    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-9C033A.svg?logo=cpp&style=flat&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&style=flat&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=postgresql&style=flat&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&style=flat&logoColor=white"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&style=flat&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&style=flat&logoColor=black"></a>
+<br>
+    <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-FFFFFF.svg?logo=matplotlib&style=flat&logoColor=black"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&style=flat&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&style=flat&logoColor=white"></a>
+    <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&style=flat&logoColor=white"></a>
+    <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit-learn-F7931E.svg?logo=scikit-learn&style=flat&logoColor=white"></a>
+    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&style=flat&logoColor=white"></a>
+    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&style=flat&logoColor=white"></a>
+    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&style=flat&logoColor=white"></a>
+<br>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F.svg?logo=mysql&style=flat&logoColor=white"></a>
+    <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000.svg?logo=oracle&style=flat&logoColor=white"></a>
+<br>
+    <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=tableau&style=flat&logoColor=white"></a>
+    <a href="#"><img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811.svg?logo=powerbi&style=flat&logoColor=black"></a>
+    <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?logo=microsoft-excel&style=flat&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A.svg?logo=microsoft-powerpoint&style=flat&logoColor=white"</a>
+<br>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&style=flat&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&style=flat&logoColor=white"></a>
+<br></a>
+     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&style=flat&logoColor=white"></a>
+    <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC.svg?logo=canva&style=flat&logoColor=white"></a>
+<br>
+    <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&style=flat&logoColor=white"></a>
+</p>
 
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=Figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=Git&logoColor=white)
-
-<br/>
+<br>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaTripathi1&layout=compact&langs_count=10&bg_color=FFFFFF&title_color=000000&text_color=333333&border_color=ECECEC)
 
