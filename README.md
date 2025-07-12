@@ -76,7 +76,8 @@ Whether it's a dashboard that reveals hidden trends or a model that makes sense 
 
 ## 📊 GitHub Stats:
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ShreyaTripathi1)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=ShreyaTripathi1&theme=dark&fire=FF6200)](https://git.io/streak-stats)
+
 
 <br/>
 
