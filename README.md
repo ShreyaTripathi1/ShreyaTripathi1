@@ -15,8 +15,7 @@
 - ⚡ Agile problem-solver who enjoys tackling tricky challenges <br>
 - 🎨 They say clean code is art, mine's more like modern abstract art.. <br>
 
-and yes, I flex muscles in the gym and uninvited shortcuts on my keyboard - talent comes in different forms, <br>
-also I got all the good qualities of a last‑minute learner and all the bad qualities of a consistent one.
+and yes, I got all the good qualities of a last‑minute learner and all the bad qualities of a consistent one.
 
 <br/>
 
