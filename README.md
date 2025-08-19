@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# Hey There, I'm Shreya Tripathi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey There, I'm Shreya ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/shreyatripathi863/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya-tripathi" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.instagram.com/idrc.wtevr/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreya-tripathi" height="30" width="40" /></a>
@@ -8,18 +8,15 @@
 
 <br/>
 
-## Glad to see you here!
-I am a pre-final year student at Vellore Institute of Technology, pursuing a B.Tech in Computer Science Engineering with a specialization in Artificial Intelligence and Machine Learning. Dedicated to advancing my coding skills and understanding of emerging technologies, I am an agile problem solver focused on tackling complex challenges and delivering innovative solutions.
+## About me:
 
-<br/>
+- 🎓 Final year B.Tech CSE (AI & ML) student at VIT <br>
+- 🚀 Passionate about Machine Learning and Data Science. *(Why? Because it’s fun to make sense out of chaos. Or at least try!)* <br>
+- ⚡ Agile problem-solver who enjoys tackling tricky challenges <br>
+- 🎨 They say clean code is art, mine's more like modern abstract art.. <br>
 
-## Talking about me:
-
-- 👀 I’m passionate about Machine Learning and Data Science. <br>
-      *(Data Science: Because it’s fun to make sense out of chaos. Or at least try! 🤷‍♂️📈)*
-- 🌱 Currently diving deep into Data Science, Machine Learning & Data Structures and Algorithms.
-- 📫 Reach me at LinkedIn or just drop a mail.
-- 😄 Pronouns: She/Her
+and yes, I flex muscles in the gym and uninvited shortcuts on my keyboard - talent comes in different forms, <br>
+also I got all the good qualities of a last‑minute learner and all the bad qualities of a consistent one.
 
 <br/>
 
@@ -27,7 +24,7 @@ I am a pre-final year student at Vellore Institute of Technology, pursuing a B.T
 
 I'm deeply fascinated by how data can unlock stories, patterns, and insights that fuel real-world impact. From predicting user behavior to visualizing trends, I thrive on building smart, scalable solutions that make decisions more intelligent - and lives a little easier.
 
-Whether it's a dashboard that reveals hidden trends or a model that makes sense of unstructured chaos, I believe the best solutions come from curiosity, clean code, and coffee.
+I believe the most effective solutions come from a blend of curiosity, structured problem-solving, and clean, efficient code. Whether it's uncovering hidden trends through dashboards or designing models that bring clarity to complex data, my goal is to bridge raw information with actionable insights.
 
 <br/>
 
@@ -72,7 +69,9 @@ Whether it's a dashboard that reveals hidden trends or a model that makes sense 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaTripathi1&layout=compact&langs_count=10&bg_color=FFFFFF&title_color=000000&text_color=333333&border_color=ECECEC)
 
-<br/>
+<i>Smart people choose Python. Python makes people smarter.<i>
+
+<br>
 
 ## 📊 GitHub Stats:
 
@@ -106,16 +105,16 @@ Whether it's a dashboard that reveals hidden trends or a model that makes sense 
 
 ## 🌍 Outside of Tech
 
-- 📸 Amateur photographer - Love capturing every moment.
-- ✈️ Traveler - Give me a map and a good playlist - I’m in.
-- 🧠 Psychology enthusiast - Why we think how we think? Human behavior is wild and interesting.
-- ♟️ Chess - Nothing serious, just some friendly face-offs.
-- 🏎️ F1 fan - Supporting Ferrari: just an inchident, but it builds character.
+- 📸 Sometimes I click photos.
+- ✈️ Give me a map and a good playlist - I’m in.
+- 🧠 Curious about why people think the way they do, human behavior is wild and interesting - psychology fascinates me.
+- ♟️ I play chess casually, mostly for fun.
+- 🏎️ Cheering for Ferrari in F1, just an "inchident" but hey it builds character.
   
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=ShreyaTripathi1&color=blueviolet&abbreviated=true)
 
-<i>Thanks for stopping by! Let’s connect if you’re into tech, coding, or just a good convo.</i>
+<i>Thanks for stopping by! you must be either really curious or really bored to scroll all the way down here👀.</i>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
