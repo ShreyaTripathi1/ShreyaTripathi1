@@ -68,8 +68,6 @@ I believe the most effective solutions come from a blend of curiosity, structure
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaTripathi1&layout=compact&langs_count=10&bg_color=FFFFFF&title_color=000000&text_color=333333&border_color=ECECEC)
 
-<i>Smart people choose Python. Python makes people smarter.<i>
-
 <br>
 
 ## 📊 GitHub Stats:
@@ -114,6 +112,6 @@ I believe the most effective solutions come from a blend of curiosity, structure
 
 ![](https://komarev.com/ghpvc/?username=ShreyaTripathi1&color=blueviolet&abbreviated=true)
 
-<i>Thanks for stopping by! you must be either really curious or really bored to scroll all the way down here👀.</i>
+<i>Thanks for stopping by!</i>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
