@@ -10,7 +10,7 @@
 
 ## About me:
 
-- 🎓 Final year B.Tech CSE (AI & ML) student at VIT <br>
+- 🎓 B.Tech CSE (AI & ML) - VIT <br>
 - 🚀 Passionate about Machine Learning and Data Science. *(Why? Because it’s fun to make sense out of chaos. Or at least try!)* <br>
 - ⚡ Agile problem-solver who enjoys tackling tricky challenges <br>
 - 🎨 They say clean code is art, mine's more like modern abstract art.. <br>
